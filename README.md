@@ -10,7 +10,7 @@ The Age/Age bracket of customers that purchased a bike in those region, and The 
 ### SOURCE DATA
 The primary dataset used for this analysis is the Excel Project Dataset.xlsx
 
-### Tools
+### TOOLS
 Microsoft Excel (Data cleaning, Data Analysis, Data Visualization)
 
 ### Data Cleaning/Preparation
