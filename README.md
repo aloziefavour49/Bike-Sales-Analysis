@@ -4,7 +4,10 @@
 1. This data analysis project aims to provide insight of a Bike Sales in different regions. By analyzing the Average income of customers that purchased a Bike in a particular region.
 The Age/Age bracket of customers that purchased a bike in those region, and The Commute Distance of customers that purchased a bike. We seek to Identify Trends, Make data-driven decisions and gain a deeper understanding of Bike Sales in these various regions.
 
-### DATA SOURCE
+### DASHBOARD
+![DASHBOARD 1](https://github.com/user-attachments/assets/794467b4-86da-4c4e-a2ae-efc33b74c926)
+
+### SOURCE DATA
 The primary dataset used for this analysis is the Excel Project Dataset.xlsx
 
 ### Tools
