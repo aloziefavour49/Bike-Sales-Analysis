@@ -5,7 +5,7 @@
 The Age/Age bracket of customers that purchased a bike in those region, and The Commute Distance of customers that purchased a bike. We seek to Identify Trends, Make data-driven decisions and gain a deeper understanding of Bike Sales in these various regions.
 
 ### DASHBOARD
-![DASHBOARD 1](https://github.com/user-attachments/assets/794467b4-86da-4c4e-a2ae-efc33b74c926)
+<img width="1920" height="1080" alt="Screenshot 2026-04-01 201935" src="https://github.com/user-attachments/assets/98df7dd9-2388-455b-ae3d-7dd83002c0a5" />
 
 ### SOURCE DATA
 The primary dataset used for this analysis is the Excel Project Dataset.xlsx
